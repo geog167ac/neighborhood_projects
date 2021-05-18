@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a blog dedicated to displaying student final projects in Geography 167 AC. The final project is about student exploring the histories, migration patterns, other interesting features of their neighborhood and connecting them to what they learned in the class. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site is created by [Parshant Juneja](https://www.linkedin.com/in/parshant-juneja-7a19b2140/){:target="_blank"}(formed Geog 167 AC student) as a token of appreciation for Professor Diana.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
