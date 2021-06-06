@@ -23,6 +23,7 @@ layout: home
   <li><a class="post-link" href="assets/Jenna Perez Santa Ana.pdf" target="_blank">Santa Ana by Jenna Perez</a></li>
   <li><a class="post-link" href="assets/Kate Lukacs Fayettsville.pdf" target="_blank">Fayettsville by Kate Lukacs</a></li>
   <li><a class="post-link" href="assets/Juliana Filipenko Concord.pdf" target="_blank">Concord by Juliana Filipenko</a></li>
+  <li><a class="post-link" href="assets/Vida Keyvanfar Boyle Heights.jpeg" target="_blank">Boyle Heights by Vida Keyvanfar</a></li>
 </ul>
 
 
